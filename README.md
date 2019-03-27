@@ -5,7 +5,7 @@
 
 Term: Fall 2018
 
-+ Team #
++ Team 3
 + Team members
 	+ Peilu Zhang(pz2233@columnia.edu)
 	+ Chun Zhai(cz2466@columbia.edu）
